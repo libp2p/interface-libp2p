@@ -6,7 +6,9 @@
 
 > The interface of all of the interfaces for the libp2p modules.
 
-This is a stub repo. Please refer to [the issues](https://github.com/libp2p/interface-libp2p/issues) or come back later.
+## API
+
+The current version of the API can be found at: https://github.com/libp2p/js-libp2p . Once we standardise it across languages, we will migrate it to this repo.
 
 ## Contribute
 
